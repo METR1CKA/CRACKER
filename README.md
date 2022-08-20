@@ -52,6 +52,10 @@ Results: Password not found
 
 ~~~
 
+## Nota
+
+> El proyecto incluye un archivo `.txt` con algunas contraseñas, puedes incluir mas si gustas y en caso de que lo requieras
+
 # **METR1CKA**
 
 > [Visitanos en DevBlogs](https://metr1cka.github.io "Pagina web")
