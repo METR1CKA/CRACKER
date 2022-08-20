@@ -20,9 +20,9 @@ python3 main.py
 
 ~~~bash
 
-Enter the MD5 hashed password: 0192023a7bbd73250516f069df18b500
+[+] Enter the MD5 hashed password: 0192023a7bbd73250516f069df18b500
 
-Enter the dictionary path: $PATH/dictionary.txt
+[+] Enter the dictionary path: $PATH/dictionary.txt
 
 ~~~
 
@@ -30,7 +30,7 @@ Enter the dictionary path: $PATH/dictionary.txt
 
 ~~~bash
 
-Results: admin123
+[-] Results: admin123
 
 ~~~
 
@@ -40,7 +40,7 @@ Results: admin123
 
 ~~~bash
 
-Results: [Errno 2] No such file or directory: '$PATH'
+[-] Results: [Errno 2] No such file or directory: '$PATH'
 
 ~~~
 
@@ -48,7 +48,7 @@ Results: [Errno 2] No such file or directory: '$PATH'
 
 ~~~bash
 
-Results: Password not found
+[-] Results: Password not found
 
 ~~~
 

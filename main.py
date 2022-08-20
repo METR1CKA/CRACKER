@@ -3,19 +3,19 @@ import sys, time
 
 try:
 
-    hash = input('\nEnter the MD5 hashed password: ')
+    hash = input('\n[+] Enter the MD5 hashed password: ')
 
-    dicc = input('\nEnter the dictionary path: ')
+    dicc = input('\n[+] Enter the dictionary path: ')
 
     dcpasswd = dcrypt(hash, dicc)
 
     thePasswd = dcpasswd.completePasswd()
 
-    print('\nResults: {}'.format(thePasswd))
+    print('\n[-] Results: {}'.format(thePasswd))
 
 except KeyboardInterrupt:
 
-    print('\nCanceling process...')
+    print('\n[!] Canceling process...')
     
     time.sleep(1)
     
