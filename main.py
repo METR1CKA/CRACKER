@@ -1,4 +1,4 @@
-from dcrypt import dcrypt
+from app.dcrypt import dcrypt
 import sys, time
 
 try:
