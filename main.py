@@ -11,7 +11,7 @@ try:
 
     thePasswd = dcpasswd.completePasswd()
 
-    print('\n[-] Results: {}'.format(thePasswd))
+    print('\n[*] Results: {}'.format(thePasswd))
 
 except KeyboardInterrupt:
 
