@@ -30,7 +30,7 @@ python3 main.py
 
 ~~~bash
 
-[-] Results: admin123
+[*] Results: admin123
 
 ~~~
 
@@ -40,7 +40,7 @@ python3 main.py
 
 ~~~bash
 
-[-] Results: [Errno 2] No such file or directory: '$PATH'
+[*] Results: [Errno 2] No such file or directory: '$PATH'
 
 ~~~
 
@@ -48,7 +48,7 @@ python3 main.py
 
 ~~~bash
 
-[-] Results: Password not found
+[*] Results: Password not found
 
 ~~~
 
