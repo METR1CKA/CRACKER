@@ -1,6 +1,6 @@
 # CRACKER
 
-Script hecho en `python` para decifrar contraseñas encriptadas en MD5
+Script hecho en `python` para decifrar contraseñas encriptadas en `MD5`
 
 # Requisitos
 
@@ -16,7 +16,7 @@ python3 main.py
 
 ~~~
 
-2. Ingresar la contraseña hasheada en MD5 y el path del diccionario de contraseñas
+2. Ingresar la contraseña hasheada en `MD5` y el path del diccionario de contraseñas
 
 ~~~bash
 
