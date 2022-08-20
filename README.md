@@ -52,6 +52,20 @@ python3 main.py
 
 ~~~
 
+## Arbol de archivos
+
+~~~bash
+cracker
+├── app
+│   ├── dcrypt.py
+│   └── dictionaries
+│       └── dictionary.txt
+├── main.py
+└── README.md
+
+2 directories, 4 files
+~~~
+
 ## Nota
 
 > El proyecto incluye un archivo `.txt` con algunas contraseñas, puedes incluir mas si gustas y en caso de que lo requieras
