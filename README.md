@@ -24,31 +24,7 @@ python3 main.py
 
 [+] Enter the dictionary path: $PATH/dictionary.txt
 
-~~~
-
-3. Espere su resultado
-
-~~~bash
-
 [*] Results: admin123
-
-~~~
-
-## Otras respuestas
-
-* En caso de que no encontrar el archivo
-
-~~~bash
-
-[*] Results: [Errno 2] No such file or directory: '$PATH'
-
-~~~
-
-* En caso de no encontrar match en las respuestas
-
-~~~bash
-
-[*] Results: Password not found
 
 ~~~
 
